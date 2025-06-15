@@ -1,6 +1,6 @@
 Отчёт о работе: [Ринчинов практика анализатор строк.docx](https://github.com/user-attachments/files/20746817/default.docx)
 
-Все картинки с графиками находятся в папке Outputs2.
+Все картинки с графиками находятся в папке Outputs.
 
 Примеры сгенерированных программой изображений:
 ![image](https://github.com/user-attachments/assets/e0a692da-40ca-4015-9dcf-e30011c83716)
